@@ -1,5 +1,5 @@
 """ This simple code is desinged to teach a basic user to read in the files in python, simply find what proportion of males and females survived and make a predictive model based on this
-
+# Kumar
 
 import csv as csv
 import numpy as np
